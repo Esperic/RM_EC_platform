@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\18237\CLionProjects\ec_hw_platform Select CMakeLists.txt
